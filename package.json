@@ -1,6 +1,6 @@
 {
-  "name": "syntax-parser",
-  "version": "1.0.15",
+  "name": "@lingyi/syntax-parser",
+  "version": "0.1.0",
   "pri": {
     "type": "component"
   },
